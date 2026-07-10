@@ -1,0 +1,6 @@
+{
+  "name": "株式会社VOICE コーポレートサイト",
+  "description": "地元の店舗・中小企業に向けて、SNS運用代行・動画編集・Webサイト制作をまとめて任せられる、株式会社VOICEの親しみやすく洗練されたコーポレートサイト。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
